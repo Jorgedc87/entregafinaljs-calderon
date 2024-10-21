@@ -7,9 +7,7 @@ Se intenta seguir con las **buenas prácticas**, definiendo **variables** y **fu
 
 ## Aclaración importante
 
-Decidí hacer una **entrega2** lo más detallado posible, sabiendo que aun falta el tema de asincronismo, peticiones, promesas y librerías, para tener que hacer la menor cantidad de cosas más adelante. De igual manera, al observar como quedó el proyecto, posiblemente tenga que reacomodar mil cosas después, pero creo que cumple con la entrega correctamente.
-
-Se agregaron, a diferencia de la preentrega 2: 
+Se agregaron, a diferencia de la **preentrega 2**: 
 
 - Validaciones (valida minimamente el formulario)
 - Asincronismo (ya tenía, al "cargar más" tarjetas de destinos), pero de igual manera se agregó asincronismo también en SweetAlert y algun lugar más.
