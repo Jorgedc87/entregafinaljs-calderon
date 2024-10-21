@@ -11,7 +11,7 @@ Se agregaron, a diferencia de la **preentrega 2**:
 
 - Validaciones (valida minimamente el formulario)
 - Asincronismo (ya tenía, al "cargar más" tarjetas de destinos), pero de igual manera se agregó asincronismo también en SweetAlert y algun lugar más.
-- Fetch local (como no se me ocurría como hacer un fetch web, hice uno local, en fetchTravelPoints, en app.js)
+- Fetch local (como no se me ocurría como hacer un fetch a una API, hice uno local, en fetchTravelPoints, en app.js. Pensé en agregar un miniblog de lorems pero no me gustó finalmente la idea.)
 - Librería: Usé SweetAlert2 para la confirmación de compras y las validaciones.
 
 ## Tecnologías
